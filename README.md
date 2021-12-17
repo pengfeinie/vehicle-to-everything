@@ -14,3 +14,4 @@ https://blog.3g4g.co.uk/2018/09/5g-new-radio-standards-and-other.html
 https://blog.3g4g.co.uk/search/label/V2X
 https://5g.security/5g-technology/5g-3gpp-releases-15-16-17/
 https://assets.new.siemens.com/siemens/assets/api/uuid:ab5935c545ee430a94910921b8ec75f3c17bab6c/its-g5-ready-to-roll-en.pdf
+https://iot4beginners.com/vehicle-to-everything-v2x/
