@@ -18,3 +18,4 @@ https://iot4beginners.com/vehicle-to-everything-v2x/
 https://www.qualcomm.com/news/onq/2018/06/14/live-san-diego-3gpp-sets-out-expand-5g-new-industries-video
 https://www.3gpp.org/release-14
 https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3179
+https://www.researchgate.net/figure/C-V2X-standardization-and-evaluation_fig1_342624384
