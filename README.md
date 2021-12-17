@@ -6,3 +6,4 @@ https://corporatefinanceinstitute.com/resources/knowledge/other/vehicle-to-every
 https://5gaa.org/wp-content/uploads/2019/01/5GAA_White-Paper-CV2X-Roadmap.pdf
 https://www.qualcomm.com/news/onq/2020/10/30/future-now-c-v2x-needs-immediate-access-59-ghz-spectrum-us-improve-roadway
 https://archive.eetasia.com/www.eetasia.com/ART_8800721484_499488_TA_be40e88d_4.HTM
+https://www.synopsys.com/designware-ip/technical-bulletin/adoption-5g-automotive-applications.html
