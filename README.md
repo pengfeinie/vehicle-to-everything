@@ -20,3 +20,8 @@ https://www.3gpp.org/release-14
 https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3179
 
 https://www.researchgate.net/figure/C-V2X-standardization-and-evaluation_fig1_342624384
+https://www.semanticscholar.org/paper/Vehicle-to-Everything-(v2x)-Services-Supported-by-Chen-Hu/3ed2265e1f5854306ebd2ed85159c4e23b8f1eb2/figure/3
+https://www.rcrwireless.com/20180604/5g/what-is-next-for-5g-after-completing-the-first-3gpp-standard
+https://eu.mouser.com/blog/eit-5g-2021-6-key-aspects-3gpp-5-release-16
+https://vtsociety.org/2018/02/vehicles-february-2018/
+https://blog.3g4g.co.uk/search/label/V2X
