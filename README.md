@@ -89,9 +89,9 @@ In terms of infrastructure developers, many of those with existing DSRC infrastr
 
 
 
+https://www.toyo.co.jp/files/user/img/seminar/ict/spirent_NA/Final_Spirent_V2X_Solutions_TOKYO_2018.pdf
 
-
-
+https://www.nxp.com/docs/en/supporting-information/CHOOSING-RIGHT-V2X-TECHNOLOGY.pdf
 
 https://min.news/zh-cn/hot/08df670a66fd49558cf3dbccde998b99.html
 
