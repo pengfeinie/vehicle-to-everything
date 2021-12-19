@@ -93,7 +93,7 @@ In terms of infrastructure developers, many of those with existing DSRC infrastr
 
 
 
-
+https://min.news/zh-cn/hot/08df670a66fd49558cf3dbccde998b99.html
 
 https://www.ednchina.com/news/20171018V2X.html
 
