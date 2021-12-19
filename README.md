@@ -36,6 +36,25 @@ DSRC is essentially a modification of Wi-Fi. The technology was considered a hug
 
 After its initial approval in 2010, DSRC went through years of testing before it was first deployed in selected Toyota vehicles manufactured in Japan in 2015, and later adopted by some Cadillac models in the US in 2017. In 2019, the Volkswagen Golf 8, one of the most popular cars in Europe, became the most sold V2X-enabled car in the market.
 
+
+
+Dedicated Short Range Communication (DSRC) is an 802.11p-based wireless communication technology that enables highly secure, high-speed direct communication between vehicles and the surrounding infrastructure, without involving any cellular infrastructure. IEEE 802.11p is an amendment to the IEEE 802.11 standard that defines enhancements to support Intelligent Transportation Systems (ITS) applications. [source](https://www.everythingrf.com/community/what-is-dsrc)
+
+**DSRC** operates in the 5.9 GHz band providing direct, low latency information exchange between vehicles and the infrastructure. In 2004, the FCC dedicated a bandwidth of 75 MHz for DSRC technology in the 5.9 GHz band.
+
+DSRC provides a highly secure communication channel. The receiving vehicle validates the authenticity of the received messages and the messages aren’t linkable to the vehicle, thus protecting the driver's privacy. Every vehicle broadcasts its location, heading and speed 10 times per second in a secure and anonymous manner. All surrounding vehicles receive the message, and each estimates the risk imposed by the transmitting vehicle. This allows a perception, detection and assessment of dangerous situations (road obstacles and potential collisions with road users) even before they can be noticed visually.
+
+**Dedicated Short Range Communications have two operating modes:**
+
+- Vehicle-to-Vehicle (V2V)
+- Vehicle-to-Infrastructure (V2I)
+
+DSRC can provide high-speed communication even in the presence of obstructions and can even handle fast-changing environment at speeds as high as 500 km/h. It is optimized to “see around corners” (Non-Line-Of-Sight) and operate in extreme weather conditions.
+
+
+
+
+
 #### C-V2X (defined by 3GPP Releases 14, 15, 16)
 
 Introduced soon after DSRC, C-V2X is another vehicular communication protocol developed for V2X. Defined by the 3rd Generation Partnership Projects (3GPP), C-V2X utilizes cellular radio instead of WLAN, meaning that it utilizes the same set of cellular radio technology as cellphones do. The major difference that sets C-V2X apart from DSRC is that it allows both direct and indirect communication. In **direct C-V2X**, vehicles communicate directly with other vehicles (V2V) and roadside units (V2I) the same way as how DSRC works. Under indirect C-V2X, vehicles communicate with other entities indirectly via the cellular network (V2N), which is something DSRC cannot do.
