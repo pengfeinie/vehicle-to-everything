@@ -80,11 +80,11 @@ In terms of infrastructure developers, many of those with existing DSRC infrastr
 
 
 
+https://blog.3g4g.co.uk/search/label/V2X
 
+https://www.drivesection.com/tech/vehicle-to-everything-explained/
 
-
-
-
+https://www.3g4g.co.uk/V2X/
 
 https://autocrypt.io/infographic-7-v2x-application-scenarios/
 
