@@ -95,7 +95,7 @@ In terms of infrastructure developers, many of those with existing DSRC infrastr
 
 
 
-
+https://www.ednchina.com/news/20171018V2X.html
 
 https://www.nxp.com/docs/en/supporting-information/CHOOSING-RIGHT-V2X-TECHNOLOGY.pdf
 
