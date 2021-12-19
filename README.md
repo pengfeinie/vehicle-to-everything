@@ -1,4 +1,4 @@
-# Vehicle to Everything (V2X)
+# Vehicle to Everything (V2X) 
 
 V2X (vehicle-to-everything) is an umbrella term that is used to refer to a vehicle’s communication with all other entities, including other moving and parked vehicles, pedestrians, traffic signals, road signs, construction sites, and many more. A vehicle communicates with the outside world in two ways:    
 
@@ -97,7 +97,7 @@ In terms of infrastructure developers, many of those with existing DSRC infrastr
 
 
 
-
+https://www.nxp.com/docs/en/supporting-information/CHOOSING-RIGHT-V2X-TECHNOLOGY.pdf
 
 https://blog.3g4g.co.uk/search/label/V2X
 
@@ -135,3 +135,5 @@ https://www.rcrwireless.com/20180604/5g/what-is-next-for-5g-after-completing-the
 https://eu.mouser.com/blog/eit-5g-2021-6-key-aspects-3gpp-5-release-16
 https://vtsociety.org/2018/02/vehicles-february-2018/
 https://blog.3g4g.co.uk/search/label/V2X
+
+https://auto-talks.com/dsrc-vs-c-v2x/
