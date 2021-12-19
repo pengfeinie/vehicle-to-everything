@@ -1,4 +1,43 @@
-# vehicle-to-everthing
+# Vehicle to Everything (V2X)
+
+Vehicle to Everything (V2X) covers everything from Vehicle to Vehicle (V2V), Vehicle to Infrastructure (V2I), Vehicle to Network (V2N), Vehicle to Pedestrian (V2P) and even Pedestrian to Network (P2N)
+
+![v2x_0000](images/v2x_0000.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://www.qualcomm.com/media/documents/files/introduction-to-c-v2x.pdf
 https://www.qualcomm.com/media/documents/files/introduction-to-c-v2x.pdf
 https://5gaa.org/wp-content/uploads/2021/06/5GAA_S-210019_Position-paper-on-European-deployment-band-configuration-for-C-V2X_final.pdf
